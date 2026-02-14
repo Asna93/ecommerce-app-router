@@ -51,7 +51,7 @@ export default function ContactPage() {
               <h3 className="font-semibold mb-2">📍 Address</h3>
               <p className="text-gray-600">
                 123 Shopping Street<br />
-                New York, NY 10001
+                sharjah, UAE 
               </p>
             </div>
           </div>
