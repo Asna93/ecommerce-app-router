@@ -18,11 +18,11 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-bold mb-4">Contact</h3>
             <p className="text-gray-400">Email: support@eshop.com</p>
-            <p className="text-gray-400">Phone: +1 234 567 890</p>
+            <p className="text-gray-400">Phone: +971 50 123 4567 </p>
           </div>
         </div>
         <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
-          © 2024 E-Shop. All rights reserved.
+          © 2026 E-Shop. All rights reserved.
         </div>
       </div>
     </footer>
